@@ -157,5 +157,147 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="irnova--nova-proxy-app"></div>
 
+### IRNova--Nova-Proxy-App
+
+🔗 [source](https://github.com/IRNova/Nova-Proxy-App) – [<code><small>v1.0.0</small></code>](https://github.com/IRNova/Nova-Proxy-App/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Nova.App.V1.zip` | 24.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/IRNova/Nova-Proxy-App/Nova.App.V1.zip) |
+
+---
+
+<div id="kng7-p--mitmconnect"></div>
+
+### KNG7-P--MITMConnect
+
+🔗 [source](https://github.com/KNG7-P/MITMConnect) – [<code><small>v1.1.0</small></code>](https://github.com/KNG7-P/MITMConnect/releases/tag/v1.1.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `MITM_Connect_Setup.exe` | 60.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/KNG7-P/MITMConnect/MITM_Connect_Setup.exe) |
+
+---
+
+<div id="kianmhz--gooserelayvpn"></div>
+
+### Kianmhz--GooseRelayVPN
+
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.5.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.5.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.5.0-windows-amd64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.5.0-windows-amd64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-windows-amd64.zip) |
+
+---
+
+<div id="starling226--vaydns-vpn"></div>
+
+### Starling226--vaydns-vpn
+
+🔗 [source](https://github.com/Starling226/vaydns-vpn) – [<code><small>v1.8.0</small></code>](https://github.com/Starling226/vaydns-vpn/releases/tag/v1.8.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `VaydnsVpn-v1.8.0-arm64-v8a.apk` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.8.0-arm64-v8a.apk) |
+| `VaydnsVpn-v1.8.0-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.8.0-armeabi-v7a.apk) |
+
+---
+
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-full-release-universal.apk` | 54.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-full-release-universal.apk) |
+| `SlipNet-v2.5.3-lite-release-universal.apk` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-universal.apk) |
+
+---
+
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Termux_ARM64.tar.gz` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.tar.gz) |
+| `MasterDnsVPN_Client_Termux_ARM64.zip` | 3.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Termux_ARM64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+
+---
+
+<div id="net2share--vaydns"></div>
+
+### net2share--vaydns
+
+🔗 [source](https://github.com/net2share/vaydns) – [<code><small>v0.2.8</small></code>](https://github.com/net2share/vaydns/releases/tag/v0.2.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `vaydns-server-windows-amd64.exe` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/net2share/vaydns/vaydns-server-windows-amd64.exe) |
+| `vaydns-server-windows-amd64.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/net2share/vaydns/vaydns-server-windows-amd64.exe.sha256) |
+
+---
+
+<div id="nullroute1970--stormdns"></div>
+
+### nullroute1970--StormDNS
+
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.04.26.153956-15aedd9</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.04.26.153956-15aedd9)
+
+| File | Size | Download |
+|------|------|----------|
+| `StormDNS_Client_Termux_ARM64.tar.gz` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
+| `StormDNS_Client_Termux_ARM64.zip` | 3.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
+| `StormDNS_Client_Windows_AMD64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+
+---
+
+<div id="sartoopjj--thefeed"></div>
+
+### sartoopjj--thefeed
+
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.14.9</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.14.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `thefeed-android-v0.14.9-arm64-v8a.apk` | 8.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.14.9-arm64-v8a.apk) |
+| `thefeed-client-v0.14.9-windows-amd64.exe` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.14.9-windows-amd64.exe) |
+| `thefeed-server-windows-amd64.exe` | 3.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
+
+---
+
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
+
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
+| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
+| `mhrv-rs-android-x86-v1.9.10.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.10.apk) |
+| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
+| `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
+| `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
+| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
+| `mhrv-rs-linux-musl-arm64.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
+| `mhrv-rs-macos-amd64-app.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-amd64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 1.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `mhrv-rs-raspbian-armhf.tar.gz` | 1.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
+| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
