@@ -185,13 +185,15 @@ sha256sum FILE_NAME
 
 ### Kianmhz--GooseRelayVPN
 
-🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.5.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.5.0)
+🔗 [source](https://github.com/Kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/Kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-android-arm64.tar.gz) |
-| `GooseRelayVPN-client-v1.5.0-windows-amd64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.5.0-windows-amd64.zip) |
-| `GooseRelayVPN-server-v1.5.0-windows-amd64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.5.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-linux-amd64.tar.gz) |
+| `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
 
 ---
 
@@ -266,12 +268,12 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.16.0</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.16.0)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.16.2</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.16.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.16.0-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.0-arm64-v8a.apk) |
-| `thefeed-client-v0.16.0-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.0-windows-amd64.exe) |
+| `thefeed-android-v0.16.2-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.2-arm64-v8a.apk) |
+| `thefeed-client-v0.16.2-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
 ---
