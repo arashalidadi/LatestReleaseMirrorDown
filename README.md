@@ -157,6 +157,21 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="hidden-node--gooserelayvpn-androidclient"></div>
+
+### Hidden-Node--GooseRelayVPN-AndroidClient
+
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-universal-release.apk` | 37.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-universal-release.apk) |
+| `GooseRelayVPN-HN-1.0.2-x86-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-x86-release.apk) |
+
+---
+
 <div id="irnova--nova-proxy-app"></div>
 
 ### IRNova--Nova-Proxy-App
@@ -214,11 +229,13 @@ sha256sum FILE_NAME
 
 ### ThisIsDara--mhr-cfw-go
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.2.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.2.0)
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-windows.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows.exe) |
+| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
 
 ---
 
@@ -293,12 +310,12 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.16.2</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.16.2)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.4</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.16.2-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.16.2-arm64-v8a.apk) |
-| `thefeed-client-v0.16.2-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.16.2-windows-amd64.exe) |
+| `thefeed-android-v0.17.4-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-arm64-v8a.apk) |
+| `thefeed-client-v0.17.4-windows-amd64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
 ---
