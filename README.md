@@ -161,14 +161,15 @@ sha256sum FILE_NAME
 
 ### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.2</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.2)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-arm64-v8a-release.apk) |
-| `GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk` | 10.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-armeabi-v7a-release.apk) |
-| `GooseRelayVPN-HN-1.0.2-universal-release.apk` | 37.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-universal-release.apk) |
-| `GooseRelayVPN-HN-1.0.2-x86-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.2-x86-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-armeabi-v7a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-x86-release.apk` | 11.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-x86_64-release.apk` | 11.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-x86_64-release.apk) |
 
 ---
 
@@ -216,12 +217,12 @@ sha256sum FILE_NAME
 
 ### Starling226--vaydns-vpn
 
-🔗 [source](https://github.com/Starling226/vaydns-vpn) – [<code><small>v1.8.0</small></code>](https://github.com/Starling226/vaydns-vpn/releases/tag/v1.8.0)
+🔗 [source](https://github.com/Starling226/vaydns-vpn) – [<code><small>v1.9.1</small></code>](https://github.com/Starling226/vaydns-vpn/releases/tag/v1.9.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `VaydnsVpn-v1.8.0-arm64-v8a.apk` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.8.0-arm64-v8a.apk) |
-| `VaydnsVpn-v1.8.0-armeabi-v7a.apk` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.8.0-armeabi-v7a.apk) |
+| `VaydnsVpn-v1.9.1-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.9.1-arm64-v8a.apk) |
+| `VaydnsVpn-v1.9.1-armeabi-v7a.apk` | 10.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/Starling226/vaydns-vpn/VaydnsVpn-v1.9.1-armeabi-v7a.apk) |
 
 ---
 
@@ -269,7 +270,7 @@ sha256sum FILE_NAME
 
 ### masterking32--MasterDnsVPN
 
-🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.04.123456-38b73de</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.04.123456-38b73de)
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
 
 | File | Size | Download |
 |------|------|----------|
@@ -296,13 +297,13 @@ sha256sum FILE_NAME
 
 ### nullroute1970--StormDNS
 
-🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.07.194551-effbcfe</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.07.194551-effbcfe)
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.08.160835-42554b3</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.08.160835-42554b3)
 
 | File | Size | Download |
 |------|------|----------|
-| `StormDNS_Client_Termux_ARM64.tar.gz` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
-| `StormDNS_Client_Termux_ARM64.zip` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
-| `StormDNS_Client_Windows_AMD64.zip` | 6.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+| `StormDNS_Client_Termux_ARM64.tar.gz` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.tar.gz) |
+| `StormDNS_Client_Termux_ARM64.zip` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Termux_ARM64.zip) |
+| `StormDNS_Client_Windows_AMD64.zip` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
 
 ---
 
@@ -310,12 +311,12 @@ sha256sum FILE_NAME
 
 ### sartoopjj--thefeed
 
-🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.4</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.4)
+🔗 [source](https://github.com/sartoopjj/thefeed) – [<code><small>v0.17.5</small></code>](https://github.com/sartoopjj/thefeed/releases/tag/v0.17.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `thefeed-android-v0.17.4-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.4-arm64-v8a.apk) |
-| `thefeed-client-v0.17.4-windows-amd64.exe` | 3.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.4-windows-amd64.exe) |
+| `thefeed-android-v0.17.5-arm64-v8a.apk` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-android-v0.17.5-arm64-v8a.apk) |
+| `thefeed-client-v0.17.5-windows-amd64.exe` | 3.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-client-v0.17.5-windows-amd64.exe) |
 | `thefeed-server-windows-amd64.exe` | 3.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/sartoopjj/thefeed/thefeed-server-windows-amd64.exe) |
 
 ---
@@ -324,15 +325,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.19</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.19)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.19.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.19.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.19.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.19.apk) |
+| `mhrv-rs-android-universal-v1.9.19.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.19.apk) |
+| `mhrv-rs-android-x86-v1.9.19.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.19.apk) |
+| `mhrv-rs-android-x86_64-v1.9.19.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.19.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
