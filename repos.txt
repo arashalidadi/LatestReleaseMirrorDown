@@ -36,3 +36,4 @@ ThisIsDara/mhr-cfw-go|\.exe
 ajavadinezhad/zyrln|\.exe|\.apk|run.bat
 Hidden-Node/GooseRelayVPN-AndroidClient|\.apk
 ircfspace/teleMirror|win-x64.zip
+iampedii/WhiteDNS
