@@ -1,7 +1,7 @@
 {
-  "tag": "v1.2.24",
+  "tag": "v1.2.25",
   "status": "stable",
-  "published_at": "2026-05-12T13:41:59Z",
-  "filter_pattern": "",
-  "updated_at": "2026-05-13T03:47:41Z"
+  "published_at": "2026-05-16T10:11:04Z",
+  "filter_pattern": ".exe",
+  "updated_at": "2026-05-17T01:15:59Z"
 }
