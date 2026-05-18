@@ -217,11 +217,11 @@ sha256sum FILE_NAME
 
 ### MaxiFan--TunnelX
 
-🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.29</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.29)
+🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.32</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.32)
 
 | File | Size | Download |
 |------|------|----------|
-| `TunnelX-v1.2.29-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.29-standalone-compressed.exe.sha256) |
+| `TunnelX-v1.2.32-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.32-standalone-compressed.exe.sha256) |
 
 ---
 
@@ -281,22 +281,22 @@ sha256sum FILE_NAME
 
 ### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.4.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.4.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.5.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.5.0)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.4.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.4.0-arm64-v8a.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk) |
-| `WhiteDNS-1.4.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.4.0-armeabi-v7a.apk` | 5.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.4.0-armeabi-v7a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.4.0-universal.apk` | 16.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk) |
-| `WhiteDNS-1.4.0-universal.apk.idsig` | 142 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-universal.apk.idsig) |
-| `WhiteDNS-1.4.0-x86.apk` | 5.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk) |
-| `WhiteDNS-1.4.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86.apk.idsig) |
-| `WhiteDNS-1.4.0-x86_64.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk) |
-| `WhiteDNS-1.4.0-x86_64.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.4.0-x86_64.apk.idsig) |
+| `WhiteDNS-1.5.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.5.0-arm64-v8a.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-arm64-v8a.apk) |
+| `WhiteDNS-1.5.0-arm64-v8a.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.5.0-armeabi-v7a.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.5.0-armeabi-v7a.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.5.0-universal.apk` | 16.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-universal.apk) |
+| `WhiteDNS-1.5.0-universal.apk.idsig` | 142 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-universal.apk.idsig) |
+| `WhiteDNS-1.5.0-x86.apk` | 6.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-x86.apk) |
+| `WhiteDNS-1.5.0-x86.apk.idsig` | 58 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-x86.apk.idsig) |
+| `WhiteDNS-1.5.0-x86_64.apk` | 5.9 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-x86_64.apk) |
+| `WhiteDNS-1.5.0-x86_64.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.0-x86_64.apk.idsig) |
 
 ---
 
@@ -309,6 +309,9 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `BaleVpn-1.3.2-release.apk` | 8.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/kookoo1sabzy/BaleVPN/BaleVpn-1.3.2-release.apk) |
+| `balevpn-1.3.2-linux-x64` | 76.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-linux-x64) |
+| `balevpn-1.3.2-macos-arm64` | 68.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-macos-arm64) |
+| `balevpn-1.3.2-macos-x64` | 78.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-macos-x64) |
 | `balevpn-1.3.2-win-x64.exe` | 66.8 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/kookoo1sabzy/BaleVPN/balevpn-1.3.2-win-x64.exe) |
 
 ---
@@ -358,15 +361,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.29</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.29)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.30</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.30)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.29.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.29.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.29.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.29.apk) |
-| `mhrv-rs-android-universal-v1.9.29.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.29.apk) |
-| `mhrv-rs-android-x86-v1.9.29.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.29.apk) |
-| `mhrv-rs-android-x86_64-v1.9.29.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.29.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.30.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.30.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.30.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.30.apk) |
+| `mhrv-rs-android-universal-v1.9.30.apk` | 41.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.30.apk) |
+| `mhrv-rs-android-x86-v1.9.30.apk` | 19.4 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.30.apk) |
+| `mhrv-rs-android-x86_64-v1.9.30.apk` | 19.6 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.30.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/arashalidadi/LatestReleaseMirrorDown/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
